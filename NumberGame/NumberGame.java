@@ -1,11 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-
-/**
- * Task 1 - Number Game
- * A guessing game where the player tries to find a randomly generated number.
- * Features: attempt limits, multiple rounds, score tracking.
- */
 public class NumberGame {
 
     static final int RANGE_MIN = 1;
